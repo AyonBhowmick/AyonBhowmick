@@ -57,6 +57,7 @@ Internships and entry-level roles in **software engineering, machine learning, d
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
   <!-- <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/> -->
@@ -81,7 +82,7 @@ Internships and entry-level roles in **software engineering, machine learning, d
 | [University Management System](https://github.com/AyonBhowmick/University_Management_System) | Desktop app for managing students, teachers, sections, fees and funds, with File I/O storage | Java, Swing |
 | [SkillSwap Connect](https://github.com/AyonBhowmick/SkillSwap-Connect) | Web platform connecting learners and mentors, with courses, messaging and certificates | PHP, MySQL, JavaScript |
 | [Virus Invaders](https://github.com/AyonBhowmick/VIRUS_INVADERS) | 2D game with collision detection, five levels and dynamic weather effects | C++, OpenGL, GLUT |
-| [Café Shop Management System](https://github.com/AyonBhowmick/Cafe_Shop_Management_System)| Café operations system with Admin and Cashier roles | C#, MySQL |
+| [Café Shop Management System](https://github.com/AyonBhowmick/Cafe_Shop_Management_System)| Café operations system with Admin and Cashier roles | C#, SQL Server |
 
 ---
 
@@ -92,8 +93,7 @@ Internships and entry-level roles in **software engineering, machine learning, d
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AyonBhowmick&show_icons=true&theme=default&hide_border=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyonBhowmick&layout=compact&hide_border=true" alt="Top languages"/>
+  <img src="https://streak-stats.demolab.com?user=AyonBhowmick&theme=github-dark-blue&hide_border=true" alt="GitHub streak"/>
 </p>
 
 ---
