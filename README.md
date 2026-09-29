@@ -81,7 +81,7 @@ Internships and entry-level roles in **software engineering, machine learning, d
 | [University Management System](https://github.com/AyonBhowmick/University_Management_System) | Desktop app for managing students, teachers, sections, fees and funds, with File I/O storage | Java, Swing |
 | [SkillSwap Connect](https://github.com/AyonBhowmick/SkillSwap-Connect) | Web platform connecting learners and mentors, with courses, messaging and certificates | PHP, MySQL, JavaScript |
 | [Virus Invaders](https://github.com/AyonBhowmick/VIRUS_INVADERS) | 2D game with collision detection, five levels and dynamic weather effects | C++, OpenGL, GLUT |
-| Café Shop Management System | Café operations system with Admin and Cashier roles | C#, MySQL |
+| Café Shop Management System (https://github.com/AyonBhowmick/Cafe_Shop_Management_System)| Café operations system with Admin and Cashier roles | C#, MySQL |
 
 ---
 
