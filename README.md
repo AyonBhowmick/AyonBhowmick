@@ -1,6 +1,6 @@
 <img src="profile.png" align="left" width="170" alt="Ayon Kumar Bhowmick Ovi" style="margin-right:20px"/>
 
-## Hi, I'm Ayon Kumar Bhowmick Ovi 👋
+### Hi, I'm Ayon Kumar Bhowmick Ovi 👋
 
 **CSE Undergraduate at AIUB · AI/ML · Software Development · Research**
 
