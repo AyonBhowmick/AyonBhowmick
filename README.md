@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile (1).png" width="180" alt="Ayon Kumar Bhowmick Ovi"/>
+  <img src="profile (1).jpg" width="180" alt="Ayon Kumar Bhowmick Ovi"/>
 </p>
 
 <h1 align="center">Hi, I'm Ayon Kumar Bhowmick Ovi 👋</h1>
