@@ -1,14 +1,11 @@
-<img src="profile.png" align="left" width="170" alt="Ayon Kumar Bhowmick Ovi" style="margin-right:20px"/>
+<h2 align="center">Hi, I'm Ayon Kumar Bhowmick Ovi 👋</h2>
+<p align="center"><b>CSE Undergraduate at AIUB · AI/ML · Software Development · Research</b></p>
 
-### Hi, I'm Ayon Kumar Bhowmick Ovi 👋
-
-**CSE Undergraduate at AIUB · AI/ML · Software Development · Research**
-
-<a href="https://www.linkedin.com/in/ayon-bhowmick/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:ayon312002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://sites.google.com/view/ayonbhowmick"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
-
-<br clear="left"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayon-bhowmick/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:ayon312002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://sites.google.com/view/ayonbhowmick"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+</p>
 
 ---
 
