@@ -27,7 +27,6 @@ Internships and entry-level roles in **software engineering, machine learning, d
 
 ## 🌱 Currently Learning
 - Advanced deep learning (CNN-Transformer and Mamba-based models)
-- Explainable AI (SHAP, Grad-CAM)
 - Networking fundamentals (TCP/IP, routing, subnetting)
 - Software testing (API testing, test case design)
 
